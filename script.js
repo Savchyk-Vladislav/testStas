@@ -1,0 +1,1 @@
+let arr = [1, -99, 'Vlad', 2024, 'Stas', 0, true, false, 'true', 'false', '125', 15.525, '15.525'];
